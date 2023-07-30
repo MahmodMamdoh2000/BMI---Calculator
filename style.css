@@ -68,7 +68,7 @@ h4 {
   }
 }
 
-@media (max-width: 420px) {
+@media (min-width: 420px) {
   .total {
     width: 70%;
   }
